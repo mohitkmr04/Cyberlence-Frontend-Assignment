@@ -29,4 +29,9 @@ Includes a collapsible sidebar, search & filter functionality, and a polished UI
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/mohitkmr04/Cyberlence-Frontend-Assignment.git
-
+2. **Install Dependency **
+   ```bash
+   npm install
+3. **Run the project**
+   ```bash
+   npm run dev

@@ -1,12 +1,32 @@
-# React + Vite
+# 📚 Student Portal Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **responsive and modern student portal** built with **React** and **Tailwind CSS**, featuring Dashboard, Courses, CGPA, and Assignments pages.  
+Includes a collapsible sidebar, search & filter functionality, and a polished UI for a seamless user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- **Dashboard**: Displays Personal & Guardian data with clear separation.
+- **Courses**: Styled table showing enrolled courses with grades.
+- **CGPA**: Highlights current CGPA in a clean design.
+- **Assignments**: Search and filter assignments by Course ID & Assignment ID.
+- **Responsive Sidebar**: Expand/collapse animation with active link highlighting.
+- **Fully Responsive**: Optimized for mobile, tablet, and desktop.
+- **Tailwind CSS Styling**: Consistent and modern design.
+- **React Router**: Smooth page navigation without reloads.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **React** – Frontend UI
+- **React Router** – Routing between pages
+- **Tailwind CSS** – Styling framework
+- **React Icons** – Icons
+
+---
+
+## 🖥️ Installation & Setup
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/mohitkmr04/Cyberlence-Frontend-Assignment.git
+
